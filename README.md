@@ -1,16 +1,31 @@
-# projetobase
+<div align="center">
+  <br>
+  <img src="readme/logo.png" alt="DevMenthors">
+  <br>
+</div>
 
-A new Flutter project.
+<div align="center">Aplicativo de exemplo de estrutura MVC .</div>
 
-## Getting Started
+<div align="left">Versões</div>
+<div align="left">
+Flutter - 3.3.5
+Dart - 2.18.2 </div>
 
-This project is a starting point for a Flutter application.
+## Estrutura do projeto
 
-A few resources to get you started if this is your first Flutter project:
+Estrutura e organização do projeto:
+```
+lib
+├── app
+├── controllers
+├── model
+├── utils
+├── views
+├── readme
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Abrir e rodar
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Para executar este projeto você precisa:**
+
+- Instalar o [Flutter](https://flutter.dev/docs/get-started/install)
