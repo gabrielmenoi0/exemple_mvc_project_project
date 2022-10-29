@@ -9,7 +9,7 @@
 <div align="left">Versões</div>
 <div align="left">
 Flutter - 3.3.5
-Dart - 2.18.2 </div>
+Dart - 2.18.2 </div> 
 
 ## Estrutura do projeto
 
